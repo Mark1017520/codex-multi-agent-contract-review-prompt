@@ -1,0 +1,16 @@
+# Local contract materials and review outputs
+/input/
+/contracts/
+/output/
+/reports/
+
+# Operating system files
+.DS_Store
+
+# Editor files
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
