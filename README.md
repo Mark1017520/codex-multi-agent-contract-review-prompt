@@ -6,6 +6,9 @@
 
 - `prompt.md`：完整提示词正文。
 - `LICENSE`：项目授权协议。
+- `NOTICE`：版权声明和项目性质说明。
+- `AUTHORS.md`：原始作者、版权人和贡献人说明。
+- `CONTRIBUTING.md`：贡献规则和贡献授权说明。
 - `.gitignore`：避免把真实合同、输出报告和本地临时文件误提交到仓库。
 
 ## 使用方式
@@ -31,6 +34,12 @@
 ## 授权协议
 
 本项目采用 [Creative Commons Attribution 4.0 International License](./LICENSE)（CC BY 4.0）授权。你可以复制、分享、修改和再发布本提示词模板，但需要保留原始来源或合理署名。
+
+## 版权与贡献
+
+Copyright (c) 2026 Mark1017520。
+
+原始作者、版权人和贡献人说明见 [AUTHORS.md](./AUTHORS.md)。贡献规则见 [CONTRIBUTING.md](./CONTRIBUTING.md)。除非另有明确说明，向本项目提交的贡献内容均视为按 CC BY 4.0 授权。
 
 ## 免责声明
 
